@@ -7,21 +7,21 @@ Each package represents each pattern.
 
 Patterns menu:
 
-####-[Chain of Responsibility](src/main/java/chain_of_responsibility)
+-[Chain of Responsibility](src/main/java/chain_of_responsibility)
 
-####-[Command](src/main/java/command)
+-[Command](src/main/java/command)
 
-####-[Iterator](src/main/java/iterator)
+-[Iterator](src/main/java/iterator)
 
-####-[Mediator](src/main/java/mediator)
+-[Mediator](src/main/java/mediator)
 
-####-[Memento](src/main/java/memento)
+-[Memento](src/main/java/memento)
 
-####-[Observer](src/main/java/observer)
+-[Observer](src/main/java/observer)
 
-####-[State](src/main/java/state)
+-[State](src/main/java/state)
 
-####-[Strategy](src/main/java/strategy)
+-[Strategy](src/main/java/strategy)
 
-####-[Visitor](src/main/java/visitor)
+-[Visitor](src/main/java/visitor)
 
