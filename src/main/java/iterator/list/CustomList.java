@@ -1,4 +1,4 @@
-package iterator.start.point;
+package iterator.list;
 
 public class CustomList {
     private Integer[] values = new Integer[5];
